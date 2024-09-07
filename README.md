@@ -1,4 +1,4 @@
-<div align="center"><img width="100%" src="https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif"></div>
+<div align="center"><img width="100%" height="350px" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"></div>
 <h2 align="center">Hi there 👋 I'm Arpan!!</h2><hr>
 <div align="center">
   <h3>About:</h3>
