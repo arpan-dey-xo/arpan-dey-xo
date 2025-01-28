@@ -2,10 +2,10 @@
 <h2 align="center">Hi there 👋 I'm Arpan!!</h2><hr>
 <div align="center">
   <h3>About:</h3>
-  <p><b><i>I'm a tech enthusiast with a knack for Codinggg!!! </i>👻</b><br><br>
+  <p><b><i>Tech enthusiast with a knack for Coding!!! </i>👻</b><br><br>
     👨‍🎓 2nd year Un-Grad.<br>
-    🍁 Currently I'm learning everything.<br>
-    🧮 Working on CGPA Calculator & Carbon Footprint Calculator tool.<br>
+    🍁 Currently trying to figure out the roadmap.<br>
+    🧮 Working on individual growth as of now + little bit of beginner level projects.<br>
     💻 Dev + CP.<br>
     😓 Ready to collab for small-mid level projects.<br>
     📧 Reach me out at: <a href="mailto:midecl.arpan@gmail.com">Arpan Dey</a>
