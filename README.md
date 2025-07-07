@@ -3,7 +3,7 @@
 <div align="center">
   <h3>About:</h3>
   <p><b><i>Tech enthusiast with a knack for Coding!!! </i>👻</b><br><br>
-    👨‍🎓 2nd year Un-Grad.<br>
+    👨‍🎓 Un-Grad.<br>
     🍁 Currently trying to figure out the roadmap.<br>
     🧮 Working on individual growth as of now + little bit of beginner level projects.<br>
     💻 Dev + CP.<br>
